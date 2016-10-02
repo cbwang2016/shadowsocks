@@ -4,6 +4,10 @@ shadowsocks
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
+<a href="https://scan.coverity.com/projects/cbwang2016-shadowsocks">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/10348/badge.svg"/>
+</a>
 
 A fast tunnel proxy that helps you bypass firewalls.
 
